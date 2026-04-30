@@ -26,7 +26,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: red;
+    background: #111;
     color: white;
     padding: 15px 30px;
 }
